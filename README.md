@@ -1,5 +1,4 @@
-Welcome to River Architect Developers ![logo](https://github.com/RiverArchitect/Welcome/raw/master/images/logo_small.ico)======================================================
-
+Welcome River Architect Developers ![logo](https://github.com/RiverArchitect/Welcome/raw/master/images/logo_small.ico)
 
 ***
 
